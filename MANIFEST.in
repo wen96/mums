@@ -1,0 +1,1 @@
+recursive-include mums *.txt *.html *.js

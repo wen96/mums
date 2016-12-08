@@ -1,0 +1,18 @@
+[
+  {
+    "model": "mumsapi.product",
+    "pk": 1,
+    "fields": {
+      "name": "Patatas",
+      "price": 2.44
+    }
+  },
+  {
+    "model": "mumsapi.product",
+    "pk": 2,
+    "fields": {
+      "name": "Cocacola",
+      "price": 2
+    }
+  }
+]
